@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3e7b924dc7a84566be21.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Qt_1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Qt_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qt_1-Debug-7bb3e40a1d3bdfd9a10c.json",
+					"name" : "Qt_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Qt_1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qt_1_autogen-Debug-b6b69583a98fbd50abfb.json",
+					"name" : "Qt_1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Qt_1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qt_1_autogen_timestamp_deps-Debug-7932f5f6dc9f770425ec.json",
+					"name" : "Qt_1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/surya/Qt_Workspace/Qt_Practice/Qt_1/build/Desktop_Qt_6_7_2-Debug",
+		"source" : "/home/surya/Qt_Workspace/Qt_Practice/Qt_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

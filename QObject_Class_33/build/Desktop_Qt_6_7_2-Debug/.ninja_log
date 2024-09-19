@@ -1,0 +1,17 @@
+# ninja log v6
+1868	2090	1726569511717417382	Qt_1	4e8f3743fee2884f
+394	2845	1726569427865117271	CMakeFiles/Qt_1.dir/main.cpp.o	a4151f34ca5d1754
+381	2894	1726569590297657629	CMakeFiles/Qt_1.dir/Qt_1_autogen/mocs_compilation.cpp.o	74ee70ae8a81c9d2
+4	381	1726569590289657606	/home/surya/Qt_Workspace/Qt_Practice/Qt_1/build/Desktop_Qt_6_7_2-Debug/Qt_1_autogen/mocs_compilation.cpp	f6daa0b2a9ad2c96
+4	381	1726569590289657606	/home/surya/Qt_Workspace/Qt_Practice/Qt_1/build/Desktop_Qt_6_7_2-Debug/Qt_1_autogen/timestamp	f6daa0b2a9ad2c96
+382	2941	1726569590297657629	CMakeFiles/Qt_1.dir/test.cpp.o	4721ee171e79fe61
+4	381	1726569590289657606	Qt_1_autogen/mocs_compilation.cpp	f6daa0b2a9ad2c96
+4	381	1726569590289657606	Qt_1_autogen/timestamp	f6daa0b2a9ad2c96
+4	604	1726569603765695260	Qt_1_autogen/timestamp	f6daa0b2a9ad2c96
+4	604	1726569603765695260	Qt_1_autogen/mocs_compilation.cpp	f6daa0b2a9ad2c96
+4	604	1726569603765695260	/home/surya/Qt_Workspace/Qt_Practice/Qt_1/build/Desktop_Qt_6_7_2-Debug/Qt_1_autogen/timestamp	f6daa0b2a9ad2c96
+4	604	1726569603765695260	/home/surya/Qt_Workspace/Qt_Practice/Qt_1/build/Desktop_Qt_6_7_2-Debug/Qt_1_autogen/mocs_compilation.cpp	f6daa0b2a9ad2c96
+605	3519	1726569603773695283	CMakeFiles/Qt_1.dir/main.cpp.o	a4151f34ca5d1754
+605	3525	1726569603773695283	CMakeFiles/Qt_1.dir/Qt_1_autogen/mocs_compilation.cpp.o	74ee70ae8a81c9d2
+606	3539	1726569603773695283	CMakeFiles/Qt_1.dir/test.cpp.o	4721ee171e79fe61
+3539	3777	1726569606705703346	Qt_1	4e8f3743fee2884f

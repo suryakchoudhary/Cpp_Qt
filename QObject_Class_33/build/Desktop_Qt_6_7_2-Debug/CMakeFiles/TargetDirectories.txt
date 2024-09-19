@@ -1,0 +1,9 @@
+/home/surya/Qt_Workspace/Qt_Practice/Qt_1/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/Qt_1.dir
+/home/surya/Qt_Workspace/Qt_Practice/Qt_1/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/edit_cache.dir
+/home/surya/Qt_Workspace/Qt_Practice/Qt_1/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/surya/Qt_Workspace/Qt_Practice/Qt_1/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/list_install_components.dir
+/home/surya/Qt_Workspace/Qt_Practice/Qt_1/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install.dir
+/home/surya/Qt_Workspace/Qt_Practice/Qt_1/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/local.dir
+/home/surya/Qt_Workspace/Qt_Practice/Qt_1/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/strip.dir
+/home/surya/Qt_Workspace/Qt_Practice/Qt_1/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/Qt_1_autogen_timestamp_deps.dir
+/home/surya/Qt_Workspace/Qt_Practice/Qt_1/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/Qt_1_autogen.dir
